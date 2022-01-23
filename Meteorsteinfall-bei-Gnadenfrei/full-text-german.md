@@ -6,4 +6,24 @@
 
 Die erste Nachricht von dem am 17. Mai d. J. Nachmittags gegen 4 Uhr bei Gnadenfrei zwischen Reichenbach und Frankenstein in Schlesischen Zeitung vom 20. Mai enthaltene Mittheilung des Hrn. Grafen L. Pfeil in Gnadenfrei. Es fügte sich besonders günstig, dass schon am nächsten Tage nach dem Falle, am 18. Mai, diesem wissenschaftlichen Kenner der Beschaffenheit und des Werthes derartiger Funde die Nachricht über dieses Ereigniss zuging und durch die höchst dankenswerthen Bemühungen und Vermittelungen desselben der grösste Theil der Stücke für die wissenschaftlichen Zwecke erhalten, sowie über den Verlauf des Niederfalles und die denselben begleitenden physikalischen Erscheinungen sofort die wesentlichsten Erkundigungen eingezogen werden konnten. In Folge der vom Hrn. Grafen Pfeil in der Schlesischen Zeitung vom 20. Mai mitgetheilten ersten Nachricht und demnächstiger brieflicher Correspondenzen nahmen die unterzeichneten Berichterstatter, Prof. Galle und Prof. von Lasaulx, Anlass, am 24. und 25. Mai noch persönlich nach dem Orte des Falles hinzureisen, um einerseits über die kosmische und physikalische Seite des Phänomens die etwa noch möglichen weiteren Erkundigungen einzuziehen, andererseits um weitere Erwerbungen dort noch vorhandener Meteoritenstücke für die hiesigen Sammlungen einzuleiten, nachdem Hr. Graf Pfeil schon unter dem 20. Mai mehrere Stücke hierher zu senden die Güte gehabt hatte.
 
+[Fig. 1](https://cdn.solaranamnesis.com/Websky/fig1.png)
+
+[Fig. 2](https://cdn.solaranamnesis.com/Websky/fig2.png)
+
+[Fig. 3](https://cdn.solaranamnesis.com/Websky/fig3.png)
+
+[Fig. 4](https://cdn.solaranamnesis.com/Websky/fig4.png)
+
+[Fig. 5](https://cdn.solaranamnesis.com/Websky/fig5.png)
+
+[Fig. 6](https://cdn.solaranamnesis.com/Websky/fig6.png)
+
+[Fig. 7](https://cdn.solaranamnesis.com/Websky/fig7.png)
+
+[Fig. 8](https://cdn.solaranamnesis.com/Websky/fig8.png)
+
+[Fig. 9](https://cdn.solaranamnesis.com/Websky/fig9.png)
+
+[Fig. 9b](https://cdn.solaranamnesis.com/Websky/fig9b.png)
+
 ...
