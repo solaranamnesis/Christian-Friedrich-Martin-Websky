@@ -26,4 +26,8 @@ Die erste Nachricht von dem am 17. Mai d. J. Nachmittags gegen 4 Uhr bei Gnadenf
 
 [Fig. 9b](https://cdn.solaranamnesis.com/Websky/fig9b.png)
 
+[Fig. 10](https://cdn.solaranamnesis.com/Websky/fig10.png)
+
+[Fig. 11](https://cdn.solaranamnesis.com/Websky/fig11.png)
+
 ...
