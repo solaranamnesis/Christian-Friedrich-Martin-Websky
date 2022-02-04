@@ -82,6 +82,21 @@ Beim Pulvern der zur Analyse zu verwendenden Menge. des Meteoriten (es diente hi
 
 Die Analyse wurde in der Weise ausgeführt, dass das gepulverte Material unter Abschluss der Luft in einer Kohlensäureatmosphäre mit Kupferchloridlösung behandelt und hierdurch Eisen und Nickel ausgezogen !) und nach Entfernung des Kupfers quantitativ bestimmt wurden. Mit einem Theile des Silicatrestes wurde die Bestimmung der Alkalien ausgeführt, der Rest mit Salzsäure behandelt und der unlösliche Bestandtheil nach Entfernung der freien Kieselsäure bestimmt. In einer zweiten abgewogenen Menge wurde mit dem Magneten sorgfältigst alle magnetischen Bestandtheile ausgezogen und dann der Silicatrest nochmals in seinem löslichen und unlöslichen Bestandtheil analysirt. Von den doppelt erhaltenen Werthen sind die Mittel genommen worden. Zur Bestimmung des Schwefels wurde eine dritte Quantität mit Salpetersäure oxydirt und der Schwefel als schwefelsaurer Baryt bestimmt. Nach einer bezüglichen Correktur, wodurch alle Thonerde, Kalk und Natron, die zum Theil mit in Lösung gegangen, wieder auf den unlöslichen Theil umgerechnet wurden, ergaben sich dann die Resultate der Analyse wie folgt:
 
+Gesammtanalyse:
+
+SiO2 = 32,11  
+Al2O3 = 1,60  
+FeO = 14,88  
+MgO = 17,03  
+CaO = 2,01  
+Na2O = 0,70  
+Fe = 25,16  
+Ni = 3,92  
+S = 1,87  
+Cr2O3 = 0,57  
+PO5, MnO, Co = Spuren, nicht bestimmt.  
+99,85
+
 ...
 
 [Fig. 1](https://cdn.solaranamnesis.com/Websky/fig1.png)
