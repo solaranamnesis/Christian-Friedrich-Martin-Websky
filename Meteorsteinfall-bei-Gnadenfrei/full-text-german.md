@@ -97,6 +97,18 @@ Cr2O3 = 0,57
 PO5, MnO, Co = Spuren, nicht bestimmt.  
 99,85
 
+Das specif. Gewicht ergab bei 16° C. von drei verschiedenen Proben: 3,644, 3,712 und 3,785.
+
+Silicatanalyse:
+
+A. Lösliches Silicat = Olivin: 34,02 pCt. des Ganzen berechnet, gefunden = 35,01 pCt.
+
+B. Unlösliches Silicat = eisenreicher Enstatit; 34,03 pCt. des Ganzen berechnet, gefunden — 33,23 pÜt.
+
+C. Zusammensetzung des Silicates als Summe des löslichen und unlöslichen T'heiles berechnet.
+
+D. Berechnete Zusammensetzung des Silicates nach dem Verhältniss von 34,02 Olivin : 34,03 Enstatit.
+
 ...
 
 [Fig. 1](https://cdn.solaranamnesis.com/Websky/fig1.png)
