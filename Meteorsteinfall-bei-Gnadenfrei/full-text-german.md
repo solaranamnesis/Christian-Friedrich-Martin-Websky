@@ -138,6 +138,43 @@ Lösl. Silicat (Olivin) = 34,02
 
 99,85|99,85
 
+Das Nickeleisen besteht aus:
+
+Fe = 85,1 pCt.  
+Ni = 14,9  
+100,00  
+
+und entspricht sonach ganz nahe der Formel Fe6Ni. Die Phosphorsaure deutet auf eine im Nickeleisen enthaltene geringe Menge von Schreibersit.
+
+Der Enstatit hat die aus der Analyse des unlöslichen Theiles B berechnete Zusammensetzung:
+
+SiO2 = 52,56  
+Al2O3 = 4,15  
+FeO = 16,18  
+MgO = 20,28  
+CaO = 5,02  
+Na2O = 1,81  
+100,00
+
+Er ist ein thonerdehaltiger Enstatit, ahnlich dem aus dem Meteoriten von Chantonnay, sowie dem von Hainholz; seine Zusammensetzung entspricht der Mischung von
+
+3 Mg SiO3  
+Fe SiO3.
+
+Der Olivin hat die aus der Analyse berechnete Zusammensetzung:
+
+SiO2 = 40,20  
+FeO = 28,42  
+MgO = 31,38  
+100,00
+
+Er entspricht sonach ganz nahe der Mischungsformel
+
+2 Mg2 SiO4  
+Fe2 SiO4
+
+wie der Olivin in dem Meteoriten von Chassigny u. A.
+
 ...
 
 [Fig. 1](https://cdn.solaranamnesis.com/Websky/fig1.png)
