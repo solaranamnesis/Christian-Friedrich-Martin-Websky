@@ -118,6 +118,26 @@ CaO =|-|2,83|2,83|2,51
 Na2O =|-|1,02|1,02|0,90  
 Summen |42,79|56,37|99,16|100,00  
 
+Es besteht sonach die Masse des Meteoriten aus:
+
+Fe = 22,34  
+Ni = 3,92  
+-- Nickeleisen 26,16 pCt.  
+
+Fe = 2,92  
+S = 1,87  
+-- Fe8S9 Magnetkies (und Troilit) 4,79 pCt.  
+
+FeO = 0,28  
+Cr2O3 = 0,57  
+-- Chromeisen 0,85 pCt.  
+
+Unlösl. Silicat (Enstatit) = 34,03  
+Lösl. Silicat (Olivin) = 34,02 
+-- Silicat 68,05 pCt.
+
+99,85|99,85
+
 ...
 
 [Fig. 1](https://cdn.solaranamnesis.com/Websky/fig1.png)
