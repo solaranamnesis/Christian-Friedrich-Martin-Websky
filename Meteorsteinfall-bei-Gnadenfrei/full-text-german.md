@@ -177,6 +177,8 @@ wie der Olivin in dem Meteoriten von Chassigny u. A.
 
 Bezüglich des Quantitätsverhältnisses der einzelnen Bestandtheile befindet sich die mikroskopische und chemische Analyse in vollkommener Übereinstimmung.
 
+## Erklärung der Tafeln.
+
 [Fig. 1](https://cdn.solaranamnesis.com/Websky/fig1.png)
 
 [Fig. 2](https://cdn.solaranamnesis.com/Websky/fig2.png)
