@@ -185,9 +185,9 @@ Bezüglich des Quantitätsverhältnisses der einzelnen Bestandtheile befindet si
 
 [Fig. 3](https://cdn.solaranamnesis.com/Websky/fig3.png) — Der Stein von Gnadenfrei. In Fig. 3 ist die nach oben gewendete Kläche zwischen _a_ und _k_ die Brustfläche. Über die Stellung der einzelnen Figuren orientirt die jedesmalige Lage der Kante _a_ _b_. In Fig. 1 und 2 fehlen die beiden abgetrennten Stücke, die in Fig. 3 links bei _kl_ und _ki_ angefügt sind. Die Zeichnungen sind in halber natürlicher (Grösse ausgeführt. Uber der Ecke _d_ in Fig. 2 erscheinen auf der Rückfläche ausgezeichnet die fingerförmigen Eindrücke.
 
-[Fig. 4](https://cdn.solaranamnesis.com/Websky/fig4.png)
+[Fig. 4](https://cdn.solaranamnesis.com/Websky/fig4.png) — Der Schobergrunder Stein. Fig. 4 stellt die aus vier mit den Bruchflächen noch scharf aneinander passenden Stücken zusammengefügte Hälfte des Steines dar. Fig. 5 zeigt die nach den übrigen noch vorhandenen Stücken reconstruirte wahrscheinliche Form des ganzen Steines. Grösse 2/3 der natürlichen.
 
-[Fig. 5](https://cdn.solaranamnesis.com/Websky/fig5.png)
+[Fig. 5](https://cdn.solaranamnesis.com/Websky/fig5.png) — Der Schobergrunder Stein. Fig. 4 stellt die aus vier mit den Bruchflächen noch scharf aneinander passenden Stücken zusammengefügte Hälfte des Steines dar. Fig. 5 zeigt die nach den übrigen noch vorhandenen Stücken reconstruirte wahrscheinliche Form des ganzen Steines. Grösse 2/3 der natürlichen.
 
 [Fig. 6](https://cdn.solaranamnesis.com/Websky/fig6.png)
 
