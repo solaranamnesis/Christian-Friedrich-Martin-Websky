@@ -85,7 +85,7 @@ Die Analyse wurde in der Weise ausgeführt, dass das gepulverte Material unter A
 Gesammtanalyse:
 
 SiO₂ = 32,11  
-Al₂O3 = 1,60  
+Al₂O₃ = 1,60  
 FeO = 14,88  
 MgO = 17,03  
 CaO = 2,01  
@@ -93,7 +93,7 @@ Na₂O = 0,70
 Fe = 25,16  
 Ni = 3,92  
 S = 1,87  
-Cr₂O3 = 0,57  
+Cr₂O₃ = 0,57  
 PO5, MnO, Co = Spuren, nicht bestimmt.  
 99,85
 
@@ -111,7 +111,7 @@ D. Berechnete Zusammensetzung des Silicates nach dem Verhältnis von 34,02 Olivi
 
  |A.|B.|C.|D.  
 SiO₂ =|17,20|29,63|46,83|46,38  
-Al₂O3 =|-|2,34|2,34|2,08  
+Al₂O₃ =|-|2,34|2,34|2,08  
 FeO =|12,16|9,12|21,28|22,30  
 MgO =|13,43|11,43|24,86|25,83  
 CaO =|-|2,83|2,83|2,51  
@@ -129,7 +129,7 @@ S = 1,87
 -- Fe8S9 Magnetkies (und Troilit) 4,79 pCt.  
 
 FeO = 0,28  
-Cr₂O3 = 0,57  
+Cr₂O₃ = 0,57  
 -- Chromeisen 0,85 pCt.  
 
 Unlösl. Silicat (Enstatit) = 34,03  
@@ -149,7 +149,7 @@ und entspricht sonach ganz nahe der Formel Fe6Ni. Die Phosphorsäure deutet auf 
 Der Enstatit hat die aus der Analyse des unlöslichen Teiles B berechnete Zusammensetzung:
 
 SiO₂ = 52,56  
-Al₂O3 = 4,15  
+Al₂O₃ = 4,15  
 FeO = 16,18  
 MgO = 20,28  
 CaO = 5,02  
@@ -158,8 +158,8 @@ Na₂O = 1,81
 
 Er ist ein tonerdehaltiger Enstatit, ähnlich dem aus dem Meteoriten von Chantonnay, sowie dem von Hainholz; seine Zusammensetzung entspricht der Mischung von
 
-3 Mg SiO3  
-Fe SiO3.
+3 Mg SiO₃  
+Fe SiO₃.
 
 Der Olivin hat die aus der Analyse berechnete Zusammensetzung:
 
