@@ -109,6 +109,15 @@ C. Zusammensetzung des Silicates als Summe des löslichen und unlöslichen T'hei
 
 D. Berechnete Zusammensetzung des Silicates nach dem Verhältniss von 34,02 Olivin : 34,03 Enstatit.
 
+ |A.|B.|C.|D.  
+SiO2 =|17,20|29,63|46,83|46,38  
+Al2O3 =|-|2,34|2,34|2,08  
+FeO =|12,16|9,12|21,28|22,30  
+MgO =|13,43|11,43|24,86|25,83  
+CaO =|-|2,83|2,83|2,51  
+Na2O =|-|1,02|1,02|0,90  
+Summen |42,79|56,37|99,16|100,00  
+
 ...
 
 [Fig. 1](https://cdn.solaranamnesis.com/Websky/fig1.png)
