@@ -195,9 +195,9 @@ Bezüglich des Quantitätsverhältnisses der einzelnen Bestandteile befindet sic
 
 [Fig. 8](https://cdn.solaranamnesis.com/Websky/fig8.png) — Kugliges Aggregat von Olivinkristallen.
 
-[Fig. 9](https://cdn.solaranamnesis.com/Websky/fig9.png) — Gestreifte Kugel von Olivin; mehrere Streifensysteme, jedesmal die Auslöschungsrichtung den Streifen parallel. Einschlüsse von Nickeleisen und staubförmiger Substanz. Fig. 9_b_ ein Teil der Streifen bei starker Vergrößerung.
+[Fig. 9](https://cdn.solaranamnesis.com/Websky/fig9.png) — Gestreifte Kugel von Olivin; mehrere Streifensysteme, jedesmal die Auslöschungsrichtung den Streifen parallel. Einschlüsse von Nickeleisen und staubförmiger Substanz. Fig. 9 _b_ ein Teil der Streifen bei starker Vergrößerung.
 
-[Fig. 9b](https://cdn.solaranamnesis.com/Websky/fig9b.png) — Gestreifte Kugel von Olivin; mehrere Streifensysteme, jedesmal die Auslöschungsrichtung den Streifen parallel. Einschlüsse von Nickeleisen und staubförmiger Substanz. Fig. 9_b_ ein Teil der Streifen bei starker Vergrößerung.
+[Fig. 9b](https://cdn.solaranamnesis.com/Websky/fig9b.png) — Gestreifte Kugel von Olivin; mehrere Streifensysteme, jedesmal die Auslöschungsrichtung den Streifen parallel. Einschlüsse von Nickeleisen und staubförmiger Substanz. Fig. 9 _b_ ein Teil der Streifen bei starker Vergrößerung.
 
 [Fig. 10](https://cdn.solaranamnesis.com/Websky/fig10.png) — Zentrisch, radiale Kugel von stengligem Enstatit.
 
