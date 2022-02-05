@@ -191,9 +191,9 @@ Bezüglich des Quantitätsverhältnisses der einzelnen Bestandtheile befindet si
 
 [Fig. 6](https://cdn.solaranamnesis.com/Websky/fig6.png) — Parthie aus einem Dünnschliffe des Meteoriten. _a_. Nickeleisen mit zackiger Oberfläche. _b_. Magnetkies, körnig, mit bronzefarbigem Reflex. _c_. Olivinkugel, im Innern ein grosser Krystall, mit einem Rand von kleineren Krystallen. _d_. Olivinkugel, zwei scharfe Krystallquerschnitte im Innern, körnige mit schwarzer, staubförmiger Substanz erfüllte Olivinmasse darum. _e_. Spiralig aufgerollte aus Olivinkörnern bestehende Kugel. _f_. Olivinkugel mit einem grösseren, scharf conturirten Krystall im Innern, der sehr stark von der schwarzen, staubförmigen Substanz umrandet ist. _g_. Zerbrochene, gestreifte Olivinkugel, optisch einheitlich sich verhaltend, Auslöschungsrichtung parallel den Streifen. _h_. Querschnitt eines isolirten Enstatitkrystalles, feine Längsstreifung mit Querrissen. _i_. Chromeisenoktaöder in Olivin. _k_. Enstatit als Grundmasse.
 
-[Fig. 7](https://cdn.solaranamnesis.com/Websky/fig7.png)
+[Fig. 7](https://cdn.solaranamnesis.com/Websky/fig7.png) — Excentrisch, fasrige Enstatitkugel mit zwei körnigen Olivineinschlüssen.
 
-[Fig. 8](https://cdn.solaranamnesis.com/Websky/fig8.png)
+[Fig. 8](https://cdn.solaranamnesis.com/Websky/fig8.png) — Kugliges Aggregat von Olivinkrystallen.
 
 [Fig. 9](https://cdn.solaranamnesis.com/Websky/fig9.png)
 
