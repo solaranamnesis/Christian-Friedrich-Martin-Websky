@@ -94,7 +94,7 @@ Fe = 25,16
 Ni = 3,92  
 S = 1,87  
 Cr₂O₃ = 0,57  
-PO5, MnO, Co = Spuren, nicht bestimmt.  
+PO₅, MnO, Co = Spuren, nicht bestimmt.  
 99,85
 
 Das specif. Gewicht ergab bei 16° C. von drei verschiedenen Proben: 3,644, 3,712 und 3,785.
@@ -126,7 +126,7 @@ Ni = 3,92
 
 Fe = 2,92  
 S = 1,87  
--- Fe8S9 Magnetkies (und Troilit) 4,79 pCt.  
+-- Fe₈S₉ Magnetkies (und Troilit) 4,79 pCt.  
 
 FeO = 0,28  
 Cr₂O₃ = 0,57  
@@ -144,7 +144,7 @@ Fe = 85,1 pCt.
 Ni = 14,9  
 100,00  
 
-und entspricht sonach ganz nahe der Formel Fe6Ni. Die Phosphorsäure deutet auf eine im Nickeleisen enthaltene geringe Menge von Schreibersit.
+und entspricht sonach ganz nahe der Formel Fe₆Ni. Die Phosphorsäure deutet auf eine im Nickeleisen enthaltene geringe Menge von Schreibersit.
 
 Der Enstatit hat die aus der Analyse des unlöslichen Teiles B berechnete Zusammensetzung:
 
