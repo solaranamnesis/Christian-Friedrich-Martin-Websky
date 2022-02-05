@@ -170,8 +170,8 @@ MgO = 31,38
 
 Er entspricht sonach ganz nahe der Mischungsformel
 
-2 Mg₂ SiO4  
-Fe₂ SiO4
+2 Mg₂ SiO₄  
+Fe₂ SiO₄
 
 wie der Olivin in dem Meteoriten von Chassigny u. A.
 
