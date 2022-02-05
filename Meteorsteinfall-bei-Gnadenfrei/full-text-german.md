@@ -67,9 +67,9 @@ A. Lösliches Silicat = Olivin: 34,02 pCt. des Ganzen berechnet, gefunden = 35,0
 
 B. Unlösliches Silicat = eisenreicher Enstatit; 34,03 pCt. des Ganzen berechnet, gefunden — 33,23 pCt.
 
-C. Zusammensetzung des Silicates als Summe des löslichen und unlöslichen T'heiles berechnet.
+C. Zusammensetzung des Silicates als Summe des löslichen und unlöslichen Teiles berechnet.
 
-D. Berechnete Zusammensetzung des Silicates nach dem Verhältniss von 34,02 Olivin : 34,03 Enstatit.
+D. Berechnete Zusammensetzung des Silicates nach dem Verhältnis von 34,02 Olivin : 34,03 Enstatit.
 
  |A.|B.|C.|D.  
 SiO2 =|17,20|29,63|46,83|46,38  
@@ -108,7 +108,7 @@ Ni = 14,9
 
 und entspricht sonach ganz nahe der Formel Fe6Ni. Die Phosphorsäure deutet auf eine im Nickeleisen enthaltene geringe Menge von Schreibersit.
 
-Der Enstatit hat die aus der Analyse des unlöslichen Theiles B berechnete Zusammensetzung:
+Der Enstatit hat die aus der Analyse des unlöslichen Teiles B berechnete Zusammensetzung:
 
 SiO2 = 52,56  
 Al2O3 = 4,15  
@@ -118,7 +118,7 @@ CaO = 5,02
 Na2O = 1,81  
 100,00
 
-Er ist ein thonerdehaltiger Enstatit, ähnlich dem aus dem Meteoriten von Chantonnay, sowie dem von Hainholz; seine Zusammensetzung entspricht der Mischung von
+Er ist ein tonerdehaltiger Enstatit, ähnlich dem aus dem Meteoriten von Chantonnay, sowie dem von Hainholz; seine Zusammensetzung entspricht der Mischung von
 
 3 Mg SiO3  
 Fe SiO3.
@@ -137,7 +137,7 @@ Fe2 SiO4
 
 wie der Olivin in dem Meteoriten von Chassigny u. A.
 
-Bezüglich des Quantitätsverhältnisses der einzelnen Bestandtheile befindet sich die mikroskopische und chemische Analyse in vollkommener Übereinstimmung.
+Bezüglich des Quantitätsverhältnisses der einzelnen Bestandteile befindet sich die mikroskopische und chemische Analyse in vollkommener Übereinstimmung.
 
 ## Erklärung der Tafeln.
 
