@@ -179,11 +179,11 @@ Bezüglich des Quantitätsverhältnisses der einzelnen Bestandtheile befindet si
 
 ## Erklärung der Tafeln.
 
-[Fig. 1](https://cdn.solaranamnesis.com/Websky/fig1.png)
+[Fig. 1](https://cdn.solaranamnesis.com/Websky/fig1.png) — Der Stein von Gnadenfrei. In Fig. 3 ist die nach oben gewendete Kläche zwischen _a_ und _k_ die Brustfläche. Über die Stellung der einzelnen Figuren orientirt die jedesmalige Lage der Kante _a_ _b_. In Fig. 1 und 2 fehlen die beiden abgetrennten Stücke, die in Fig. 3 links bei _kl_ und _ki_ angefügt sind. Die Zeichnungen sind in halber natürlicher (Grösse ausgeführt. Uber der Ecke _d_ in Fig. 2 erscheinen auf der Rückfläche ausgezeichnet die fingerförmigen Eindrücke.
 
-[Fig. 2](https://cdn.solaranamnesis.com/Websky/fig2.png)
+[Fig. 2](https://cdn.solaranamnesis.com/Websky/fig2.png) — Der Stein von Gnadenfrei. In Fig. 3 ist die nach oben gewendete Kläche zwischen _a_ und _k_ die Brustfläche. Über die Stellung der einzelnen Figuren orientirt die jedesmalige Lage der Kante _a_ _b_. In Fig. 1 und 2 fehlen die beiden abgetrennten Stücke, die in Fig. 3 links bei _kl_ und _ki_ angefügt sind. Die Zeichnungen sind in halber natürlicher (Grösse ausgeführt. Uber der Ecke _d_ in Fig. 2 erscheinen auf der Rückfläche ausgezeichnet die fingerförmigen Eindrücke.
 
-[Fig. 3](https://cdn.solaranamnesis.com/Websky/fig3.png)
+[Fig. 3](https://cdn.solaranamnesis.com/Websky/fig3.png) — Der Stein von Gnadenfrei. In Fig. 3 ist die nach oben gewendete Kläche zwischen _a_ und _k_ die Brustfläche. Über die Stellung der einzelnen Figuren orientirt die jedesmalige Lage der Kante _a_ _b_. In Fig. 1 und 2 fehlen die beiden abgetrennten Stücke, die in Fig. 3 links bei _kl_ und _ki_ angefügt sind. Die Zeichnungen sind in halber natürlicher (Grösse ausgeführt. Uber der Ecke _d_ in Fig. 2 erscheinen auf der Rückfläche ausgezeichnet die fingerförmigen Eindrücke.
 
 [Fig. 4](https://cdn.solaranamnesis.com/Websky/fig4.png)
 
