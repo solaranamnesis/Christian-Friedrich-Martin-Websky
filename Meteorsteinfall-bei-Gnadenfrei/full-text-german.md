@@ -103,7 +103,7 @@ Silicatanalyse:
 
 A. Lösliches Silicat = Olivin: 34,02 pCt. des Ganzen berechnet, gefunden = 35,01 pCt.
 
-B. Unlösliches Silicat = eisenreicher Enstatit; 34,03 pCt. des Ganzen berechnet, gefunden — 33,23 pÜt.
+B. Unlösliches Silicat = eisenreicher Enstatit; 34,03 pCt. des Ganzen berechnet, gefunden — 33,23 pCt.
 
 C. Zusammensetzung des Silicates als Summe des löslichen und unlöslichen T'heiles berechnet.
 
