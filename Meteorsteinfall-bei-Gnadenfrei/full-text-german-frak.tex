@@ -12,6 +12,9 @@
 \graphicspath{ {./} }
 \begin{document}
 \frakfamily
+\renewcommand{\contentsname}{
+\frakfamily{Inhaltsverzeichnis}
+}
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	%\scshape % Use small caps for all text on the title page
@@ -25,11 +28,11 @@
 	
 	\vspace{1.5\baselineskip} % Whitespace above the title
 	
-	{\scshape\LARGE Bericht über den Meteorsteinfall}
+	{\Huge Bericht über den Meteorsteinfall}
 	
 	\vspace{1\baselineskip} % Whitespace after the title block
 
-	{\scshape\LARGE bei Gnadenfrei am 17. Mai 1879.}
+	{\Huge bei Gnadenfrei am 17. Mai 1879.}
 
 	\vspace{1.5\baselineskip} % Whitespace above the title
 
@@ -42,11 +45,11 @@
 	%	Subtitle
 	%------------------------------------------------
 	
-	{\scshape Websky} % Subtitle or further description
+	{\large Websky} % Subtitle or further description
 	
 	\vspace*{1\baselineskip} % Whitespace under the subtitle
 	
-    {\scshape\small Von J. G. Galle und A. von Lasaulx.\\ Mit 1 Tafel.} % Subtitle or further description
+    {\large Von J. G. Galle und A. von Lasaulx.\\ Mit 1 Tafel.} % Subtitle or further description
     
 	%------------------------------------------------
 	%	Editor(s)
@@ -65,8 +68,12 @@
 \end{titlepage}
 \setlength{\parskip}{1mm plus1mm minus1mm}
 \clearpage
+\LARGE
 \tableofcontents
 \clearpage
+\pagestyle{fancy}
+\fancyhf{}
+\cfoot{\frakfamily{\thepage}}
 \section{\frakfamily{Hr. Websky legte vor: Bericht über den Meteorsteinfall bei Gnadenfrei am 17. Mai 1879.}}
 \paragraph{}
 Die erste Nachricht von dem am 17. Mai d. J. Nachmittags gegen 4 Uhr bei Gnadenfrei zwischen Reichenbach und Frankenstein in Schlesischen Zeitung vom 20. Mai enthaltene Mitteilung des Hrn. Grafen L. Pfeil in Gnadenfrei. Es fügte sich besonders günstig, dass schon am nächsten Tage nach dem Falle, am 18. Mai, diesem wissenschaftlichen Kenner der Beschaffenheit und des Wertes derartiger Funde die Nachricht über dieses Ereignis zuging und durch die höchst dankenswerten Bemühungen und Vermittlungen desselben der größte Teil der Stücke für die wissenschaftlichen Zwecke erhalten, sowie über den Verlauf des Niederfalles und die denselben begleitenden physikalischen Erscheinungen sofort die wesentlichsten Erkundigungen eingezogen werden konnten. In Folge der vom Hrn. Grafen Pfeil in der Schlesischen Zeitung vom 20. Mai mitgeteilten ersten Nachricht und demnächstiger brieflicher Korrespondenzen nahmen die unterzeichneten Berichterstatter, Prof. Galle und Prof. von Lasaulx, Anlass, am 24. und 25. Mai noch persönlich nach dem Orte des Falles hinzureisen, um einerseits über die kosmische und physikalische Seite des Phänomens die etwa noch möglichen weiteren Erkundigungen einzuziehen, andererseits um weitere Erwerbungen dort noch vorhandener Meteoritenstücke für die hiesigen Sammlungen einzuleiten, nachdem Hr. Graf Pfeil schon unter dem 20. Mai mehrere Stücke hierher zu senden die Güte gehabt hatte.
@@ -146,10 +153,10 @@ Der Gesamteindruck, den im Dünnschliffe die Struktur unserer Meteorit macht, is
 Beim Pulvern der zur Analyse zu verwendenden Menge. des Meteoriten (es diente hierzu ein Stückchen des Gnadenfreier Steines) erwiesen sich die reichlich vorhandenen Eisenteile als hinderlich. Sie wurden daher immer mit dem Magneten aus dem groben Pulver entfernt, dann der Rest feingepulvert, die ausgezogenen Eisenteile für sich noch zerkleinert und dem Ganzen wieder zugefügt. Nur so gelang es, das Silicat zur Analyse hinlänglich fein gepulvert zu erhalten.
 
 Die Analyse wurde in der Weise ausgeführt, dass das gepulverte Material unter Abschluss der Luft in einer Kohlensäureatmosphäre mit Kupferchloridlösung behandelt und hierdurch Eisen und Nickel ausgezogen\footnote{\frakfamily{Vergl. Sipocz. Tschermaks mineral. Mitteilungen 1874. p. 244.}} und nach Entfernung des Kupfers quantitativ bestimmt wurden. Mit einem Teile des Silicatrestes wurde die Bestimmung der Alkalien ausgeführt, der Rest mit Salzsäure behandelt und der unlösliche Bestandteil nach Entfernung der freien Kieselsäure bestimmt. In einer zweiten abgewogenen Menge wurde mit dem Magneten sorgfältigste alle magnetischen Bestandteile ausgezogen und dann der Silicatrest nochmals in seinem löslichen und unlöslichen Bestandteil analysiert. Von den doppelt erhaltenen Werten sind die Mittel genommen worden. Zur Bestimmung des Schwefels wurde eine dritte Quantität mit Salpetersäure oxydiert und der Schwefel als schwefelsaurer Baryt bestimmt. Nach einer bezüglichen Korrektur, wodurch alle Tonerde, Kalk und Natron, die zum Teil mit in Lösung gegangen, wieder auf den unlöslichen Teil umgerechnet wurden, ergaben sich dann die Resultate der Analyse wie folgt:
-\clearpage
 \begin{center}
 Gesammtanalyse:
 \end{center}
+\normalsize
 \begin{center}
 \begin{tabular}{ l r }
     SiO$_{2}$ & 32,11\\
@@ -166,11 +173,13 @@ Gesammtanalyse:
      & 99,85
 \end{tabular}
 \end{center}
+\LARGE
 \paragraph{}
 Das specif. Gewicht ergab bei 16° C. von drei verschiedenen Proben: 3,644, 3,712 und 3,785.
 \begin{center}
 Silicatanalyse:
 \end{center}
+\large
 \paragraph{}
 A. Lösliches Silicat = Olivin: 34,02 pCt. des Ganzen berechnet, gefunden = 35,01 pCt.
 
@@ -179,6 +188,7 @@ B. Unlösliches Silicat = eisenreicher Enstatit; 34,03 pCt. des Ganzen berechnet
 C. Zusammensetzung des Silicates als Summe des löslichen und unlöslichen Teiles berechnet.
 
 D. Berechnete Zusammensetzung des Silicates nach dem Verhältnis von 34,02 Olivin : 34,03 Enstatit.
+\normalsize
 \begin{center}
 \begin{tabular}{ l r r r r }
      & A. & B. & C. & D.\\
@@ -192,8 +202,10 @@ D. Berechnete Zusammensetzung des Silicates nach dem Verhältnis von 34,02 Olivi
 \end{tabular}
 \end{center}
 \clearpage
+\LARGE
 \paragraph{}
 Es besteht sonach die Masse des Meteoriten aus:
+\normalsize
 \begin{center}
 \begin{tabular}{ p{25mm} r p{35mm} r }
     Fe & 22,34 & Nickeleisen & 26,16\\
@@ -207,8 +219,10 @@ Es besteht sonach die Masse des Meteoriten aus:
      & 99,85 & & 99,85 pCt.\\
 \end{tabular}
 \end{center}
+\LARGE
 \paragraph{}
 Das Nickeleisen besteht aus:
+\normalsize
 \begin{center}
 \begin{tabular}{ l r }
     Fe & 85,1 pCt.\\
@@ -216,9 +230,11 @@ Das Nickeleisen besteht aus:
      & 100,00\\
 \end{tabular}
 \end{center}
+\LARGE
 und entspricht sonach ganz nahe der Formel Fe$_{6}$Ni. Die Phosphorsäure deutet auf eine im Nickeleisen enthaltene geringe Menge von Schreibersit.
 \paragraph{}
 Der Enstatit hat die aus der Analyse des unlöslichen Teiles B berechnete Zusammensetzung:
+\normalsize
 \begin{center}
 \begin{tabular}{ l r }
     SiO$_{2}$ & 52,56\\
@@ -230,16 +246,20 @@ Der Enstatit hat die aus der Analyse des unlöslichen Teiles B berechnete Zusamm
      & 100,00\\
 \end{tabular}
 \end{center}
+\LARGE
 \paragraph{}
 Er ist ein tonerdehaltiger Enstatit, ähnlich dem aus dem Meteoriten von Chantonnay, sowie dem von Hainholz; seine Zusammensetzung entspricht der Mischung von
+\large
 \begin{center}
 3 Mg SiO$_{3}$
 \end{center}
 \begin{center}
 Fe SiO$_{3}$.
 \end{center}
+\LARGE
 \paragraph{}
 Der Olivin hat die aus der Analyse berechnete Zusammensetzung:
+\large
 \begin{center}
 \begin{tabular}{ l r }
     SiO$_{2}$ & 40,20\\
@@ -248,14 +268,17 @@ Der Olivin hat die aus der Analyse berechnete Zusammensetzung:
      & 100,00\\
 \end{tabular}
 \end{center}
+\LARGE
 \paragraph{}
 Er entspricht sonach ganz nahe der Mischungsformel
+\large
 \begin{center}
 2 Mg$_{2}$ SiO$_{4}$
 \end{center}
 \begin{center}
 Fe$_{2}$ SiO$_{4}$
 \end{center}
+\LARGE
 wie der Olivin in dem Meteoriten von Chassigny u. A.
 \paragraph{}
 Bezüglich des Quantitätsverhältnisses der einzelnen Bestandteile befindet sich die mikroskopische und chemische Analyse in vollkommener Übereinstimmung.
@@ -290,7 +313,7 @@ Fig. 11 --- Kugelrudiment von Enstatit im Innern einen größeren Olivinkristall
 \pagestyle{fancy}
 \fancyhf{}
 \rhead{\frakfamily{Tafel 1.}}
-\cfoot{\thepage}
+\cfoot{\frakfamily{\thepage}}
 \begin{figure}[p]
 \includegraphics[scale=0.9,keepaspectratio]{Figures/Table1/fig1.png}\tiny 1
 \includegraphics[scale=0.9,keepaspectratio]{Figures/Table1/fig2.png}\tiny 2
